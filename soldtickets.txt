@@ -1,0 +1,7 @@
+Gothika,19,12,20,5
+Donnie Darko,23,15,21,9
+The silence of the lambs,9,5,17,3
+Inseption,19,39,11,10
+Zodiac,15,12,10,8
+Pride and prejudice,20,26,17,7
+Dead poets society,15,27,8,2
