@@ -1,4 +1,4 @@
-# Cinema Booking
+# Cinema Booking ˚ ༘ ⋆｡˚ 🎬 ˚ ༘ ⋆｡˚
 
 Welcome to Cinema Booking, a system designed to manage movie bookings and theater operations.
 ## Project Description
